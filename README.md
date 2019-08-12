@@ -37,5 +37,9 @@ En el proceso de investigación descubrimos las siguientes problemáticas:
 ![proto1](img/proto1.png)
 ![proto2](img/proto2.png)
 
-[Prototipo](https://www.figma.com/file/TkWIuUo3YLGdTiVjHnfnE9/Vidalis?node-id=0%3A1)
+[Presentación a clientes](http://bit.ly/PresentaciónVidalis)
+
+[Prototipo](http://bit.ly/PrototipoVidalis)
+
+[Documentación del proceso](http://bit.ly/DriveVidalis)
 
