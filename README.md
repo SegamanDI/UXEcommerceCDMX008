@@ -37,6 +37,8 @@ En el proceso de investigación descubrimos las siguientes problemáticas:
 ![proto1](img/proto1.png)
 ![proto2](img/proto2.png)
 
+### Anexos
+
 [Presentación a clientes](http://bit.ly/PresentaciónVidalis)
 
 [Prototipo](http://bit.ly/PrototipoVidalis)
