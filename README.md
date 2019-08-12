@@ -1,4 +1,4 @@
-# Vidalís  ![Vidalis](img/VidalisLogo.png)
+# Vidalís  
 
 ## Preámbulo
 
@@ -23,6 +23,11 @@ En el proceso de investigación descubrimos las siguientes problemáticas:
 
 
 ## Definición del público objetivo
+
+![usermayorista1](imagenes-invest/05-user-mayorista-maquina.png)
+![usermayorista2](imagenes-invest/07-user-mayorista-cafeteria.png)
+![userpersona](imagenes-invest/09-user-persona-consumidor)
+
 
 
 
