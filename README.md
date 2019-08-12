@@ -41,7 +41,7 @@ En el proceso de investigación descubrimos las siguientes problemáticas:
 
 [Presentación a clientes](http://bit.ly/PresentaciónVidalis)
 
-[Prototipo](http://bit.ly/PrototipoVidalis)
+[Prototipo](https://www.figma.com/proto/TkWIuUo3YLGdTiVjHnfnE9/Vidalis?node-id=12%3A1&scaling=scale-down-width)
 
 [Documentación del proceso](http://bit.ly/DriveVidalis)
 
