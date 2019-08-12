@@ -10,7 +10,7 @@ Vidalís es una de estas nuevas empresas que promueven una vida más saludable. 
 
 Siempre en la búsqueda de ofrecer una botana saludable y natural, Enrique desarrollÓ una nueva técnica de conservacion de alimentos por medios autosustentables. La particularidad e innovacion de los alimentos a diferencia de los alimentos deshidratados o la liofilización es que los vegetales, frutas y hortalizas Vidalís se mantienen en dormiciòn al extraer el agua por medios autosustentables y la CÉLULA SE MANTIENE VIVA, por lo tanto todas sus funciones organolepticas se mantienen al 100%.
 
-##Problemas indentificados en la investigación
+## Problemas indentificados en la investigación
 
 Al ser una empresa nueva que comenzará su operación comercial en noviembre de este año, nuestro principal objetivo es conectar a Vidalís a través de un canal de distribución como es el e-commerce con el cliente idóneo para que el producto tenga un mayor alcance y obtenga un excelente posicionamiento en el mercado mexicano.
 
