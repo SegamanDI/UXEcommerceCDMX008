@@ -44,6 +44,6 @@ En el proceso de investigación descubrimos las siguientes problemáticas:
 
 [Documentación del proceso](http://bit.ly/DriveVidalis)
 
-Video lomm https://www.loom.com/share/d626aa55861946f1815e56aee0383a10
+Video loom https://www.loom.com/share/d626aa55861946f1815e56aee0383a10
 https://github.com/Thanya02/UXEcommerceCDMX008/tree/patch-1
 
