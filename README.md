@@ -1,5 +1,6 @@
 # Vidalís  
 
+
 ## Preámbulo
 
 El bienestar es una de las industrias de más rápido crecimiento en la actualidad. Es considerada por expertos, como la consultora Euromonitor, como una de las 10 mayores tendencias globales en 2017. Varias empresas alrededor del mundo se han unido a la ola de salud y México no se ha quedado atrás.
@@ -20,6 +21,7 @@ En el proceso de investigación descubrimos las siguientes problemáticas:
 ### Insights 
 
 ![insights](img/insights.png)
+
 
 
 ## Definición del público objetivo
