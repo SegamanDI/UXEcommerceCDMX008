@@ -28,7 +28,9 @@ En el proceso de investigación descubrimos las siguientes problemáticas:
 
 ![usermayorista1](Imagenes-invest/05-user-mayorista-maquina.png)
 ![usermayorista2](Imagenes-invest/07-user-mayorista-cafeteria.png)
-![userpersona](Imagenes-invest/09-user-persona-consumidor.png)
+
+Video lomm https://www.loom.com/share/d626aa55861946f1815e56aee0383a10
+https://github.com/Thanya02/UXEcommerceCDMX008/tree/patch-1
 
 
 
