@@ -29,11 +29,6 @@ En el proceso de investigación descubrimos las siguientes problemáticas:
 ![usermayorista1](Imagenes-invest/05-user-mayorista-maquina.png)
 ![usermayorista2](Imagenes-invest/07-user-mayorista-cafeteria.png)
 
-Video lomm https://www.loom.com/share/d626aa55861946f1815e56aee0383a10
-https://github.com/Thanya02/UXEcommerceCDMX008/tree/patch-1
-
-
-
 
 ## Definición de la solución
 
@@ -48,4 +43,7 @@ https://github.com/Thanya02/UXEcommerceCDMX008/tree/patch-1
 [Prototipo](https://www.figma.com/proto/TkWIuUo3YLGdTiVjHnfnE9/Vidalis?node-id=12%3A1&scaling=scale-down-width)
 
 [Documentación del proceso](http://bit.ly/DriveVidalis)
+
+Video lomm https://www.loom.com/share/d626aa55861946f1815e56aee0383a10
+https://github.com/Thanya02/UXEcommerceCDMX008/tree/patch-1
 
