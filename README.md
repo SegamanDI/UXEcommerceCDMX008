@@ -12,7 +12,7 @@ Siempre en la búsqueda de ofrecer una botana saludable y natural, Enrique desa
 
 ## Problemas indentificados en la investigación
 
-Al ser una empresa nueva que comenzará su operación comercial en noviembre de este año, nuestro principal objetivo es conectar a Vidalís a través de un canal de distribución como es el e-commerce con el cliente idóneo para que el producto tenga un mayor alcance y obtenga un excelente posicionamiento en el mercado mexicano.
+Al ser una empresa nueva que comenzará su operación comercial en noviembre de este año, nuestro principal objetivo es conectar a Vidalís a través de un canal de distribución como es el e-commerce con el cliente idóneo para que el producto tenga un mayor alcance y obtenga un excelente posicionamiento en el mercado exixtente actual en mexico.
 
 En el proceso de investigación descubrimos las siguientes problemáticas:
 
